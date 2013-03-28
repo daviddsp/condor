@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-	<link rel="shortcut icon" href="<?php echo Yii::app()->request->baseUrl; ?>/images/condor-previa.png" type="image/x-icon" />
+	<link rel="shortcut icon" href="<?php echo Yii::app()->request->baseUrl; ?>/images/condor-logo.png" type="image/x-icon" />
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta name="language" content="es" />
 
